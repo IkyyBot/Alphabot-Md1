@@ -46,17 +46,17 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Ikyy-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ IkyyOfcོ ×፝֟͜×" //nama kalian
+global.botname = "yasssganteng" //namabot kalian
+global.ownername = "ᴹᴿ᭄ yasssganteng ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62895622436731'] //premium user
-global.owner = ["62895622436731", "62895622436731"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62895622436731" // nomor wa kalian
+global.premium = ['6283126410379'] //premium user
+global.owner = ["6283126410379", "62895622436731"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283126410379" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
